@@ -1,1 +1,1 @@
-Assets for the game. Install LeanTween, SimpleFileBrowser, and TextMesh Pro for building from source.
+These are unity assets for the game. Install LeanTween, SimpleFileBrowser, and TextMesh Pro for building from source.
